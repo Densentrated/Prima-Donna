@@ -1,0 +1,174 @@
+
+
+Course Syllabus
+ 
+Fall 2024GE 1501 Cornerstone of Engineering 1 - Oakland 
+Northeastern University
+
+    Home
+    Modules
+
+Course Description
+
+GE 1501. Cornerstone of Engineering 1
+
+Introduces students to the engineering design process and algorithmic thinking using a combination of lectures and hands-on projects and labs while encouraging critical thinking. Offers students an opportunity to develop creative problem-solving skills used in engineering design, to structure software, and to cultivate effective written and oral communication skills. Topics include the use of design and graphics communication software, spreadsheets, a high-level programming language, programmable microcontrollers as well as various electronic components, and 3-D printing. Requires students to develop an original design solution to a technical problem as a final term project. Requires students to have a laptop computer that meets the specifications of the College of Engineering.
+Course Goals & Objectives
+Goal #1. Discover through the iterative engineering design process authentic hands-on design projects
+
+    Learn and apply the steps of the engineering design process in proposing and building solutions, working devices, and/or models with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. Cornerstone 1 & Cornerstone 2  
+    Research the scientific principles, technical background required to understand the problem to be solved, and benchmark existing or related products. Cornerstone 1 & Cornerstone 2 
+    Apply value-sensitive design principles to determine clients’ and users’ needs and then identify predetermined specifications, functions, objectives, and constraints of any potential solution by writing a Problem Statement. Cornerstone 1 & Cornerstone 2 
+    Generate several alternative solutions that could potentially satisfy the Problem Statement by using various ideation techniques. Cornerstone 1 & Cornerstone 2 
+    Decide which solution(s) to pursue by comparing alternative solutions and their probability of success using specifications, function, objectives & constraints from the Problem Statement.  Cornerstone 1 & Cornerstone 2 
+    Implement the desired solution(s) by building and testing models and/or prototypes utilizing basic hand tools, rapid prototyping, and other technologies, as appropriate. Cornerstone 1 & Cornerstone 2 
+    Evaluate the desired solution(s) by assessing feedback, test results, outcomes, and potential safety hazards relative to the Problem Statement and professional standards and codes of engineering conduct. Cornerstone 1 & Cornerstone 2 
+
+Goal #2. Integrate value-sensitive design, ethical principles, and professional responsibilities into engineering design.
+
+    Incorporate value-sensitive design principles into engineering design.  Cornerstone 1 & Cornerstone 2 
+    Apply ethical theories to account for competing values and to make rational and informed decisions that consider the impact of engineering solutions in global, economic, environmental, and societal contexts. Cornerstone 2 only 
+    Employ ethical & professional codes and obligations that emphasize health, safety, welfare and conduct with respect to clients, the public, the law, and the profession; Cornerstone 2 only 
+
+Goal #3.  Develop problem-solving skills in algorithmic thinking through computer programming.
+
+    Use algorithmic thinking to plan computer programs that can solve engineering problems; Cornerstone 1 & Cornerstone 2 
+    Employ the fundamental programming concepts of variables, arrays, functions, loops, and conditional branching;  Cornerstone 1 C++ & Cornerstone 2 C++ 
+    Create code structures that are reusable and easily interpreted, debug non-working code, and verify existing solutions; Cornerstone 1 & Cornerstone 2 
+    Code programs in MATLAB and C++ to solve problems from a variety of disciplines; Cornerstone 2 only 
+    Use computational techniques in spreadsheet and other software to derive answers to complex numerical problems and to analyze and graphically display data; Cornerstone 1 & Cornerstone 2  Move this objective under Goal #4 for GE1110. 
+    Build and debug microcontroller-based breadboard circuits; Cornerstone 1 & Cornerstone 2 
+
+Goal #4.  Develop individual and team communication skills through written, oral, and visual modalities
+
+    Communicate design and engineering information graphically using modern drawing and sketching software tools and the principles of orthographic projection; Cornerstone 1 & Cornerstone 2 
+    Create and deliver effective individual and team presentations on engineering projects and topics; Cornerstone 1 & Cornerstone 2 
+    Clearly document and effectively report engineering projects in interim and final reports that include applicable technical drawings, graphs, and descriptions of: 
+
+    the scientific principles and technical background required to understand the problem being solved, Cornerstone 1 & Cornerstone 2 
+    the designs and algorithms employed in the solution, including both the advantages and limitations imposed by them, Cornerstone 1 & Cornerstone 2 
+    the intellectual property related to the proposed design with evaluation of their pertinence to the solution, Cornerstone 2 only 
+    computer programs employed in the solution, including neatly presented pseudocode and commented raw code, Cornerstone 1 & Cornerstone 2  
+    the work completed in each step of the process. Cornerstone 1 & Cornerstone 2
+
+Goal #5.  Function effectively on a team to engage in collaborative and inclusive engineering practice.
+
+    Apply teamwork, collaboration, creativity, and problem-solving skills to the conception of a particular solution, the creation of iterative prototypes, and the implementation of a final solution or product; Cornerstone 1 & Cornerstone 2 
+    Properly analyze and interpret computational and experimental results as part of team-based engineering practice; Cornerstone 1 & Cornerstone 2 
+    Utilize inclusive practices to review and reflect upon team-based engineering work; Cornerstone 1 & Cornerstone 2 
+
+Required Course Materials
+
+Here are the required course material. In the 'Onboarding' module, I will provide step by step instructions to assist students in acquiring all the listed materials.
+
+1. SparkFun Electronics Kit
+
+This is a custom kit of electronic components, available online at https://sparkfun.com/northeastern (Links to an external site.) .  In addition to the custom kit is an additional parts kit with extra wires, bent connectors to make wiring easier and neater, 9v battery connector for extra robot power and a small pair of pliers. 
+
+2. TopHat
+
+We will be using the Top Hat (www.tophat.com (Links to an external site.)) custom-built interactive textbook called Cornerstone of Engineering for this class along with the reference texts Graphics for Engineering -AutoCAD and Solidworks and Programming for Engineering - C++ and Matlab.
+
+3. Software: CLION C++, Arduino, and AutoCAD
+
+Some of the required software is available for download using the COE license or available online for free. All is on COE and InfoCommons computers. You must be able to access this software during class either by installing locally on your computer or by accessing the COE virtual lab (VLab). Instructions to install for both options are posted at https://coe.northeastern.edu/computer/student-resources/engineering-software/
+
+Links to an external site.
+
+4. COE computer account
+
+This account is NOT the same as your InfoCommons/email account. You will need this account to use the VLab. You can apply for a COE account through www.coe.neu.edu/computer/request.html (Links to an external site.)  Engineering COE account help is available by the COE Computing staff via email at help@coe.neu.edu or by visiting the Tech bar at Rothwell Center in Oakland campus.
+
+5. Supplemental Learning Material
+
+Class Videos are all located at https://coe.northeastern.edu/academics-experiential-learning/undergraduate-studies/first-year-engineering/videos/ (Links to an external site.) and will be assigned over the course of the semester. Topics include SolidWorks, AutoCAD, Ethics, Matlab and C++.  Design topic PowerPoints and videos will be linked to Canvas Modules.
+
+6. Recommended material:
+
+            A scroll-wheel mouse is very strongly recommended to help with programming and CAD.
+
+Evaluation
+
+The grade breakdown is shown below:                                                      
+
+GE1501:  Final course grades will be computed using the following percentages:
+
+         35 %         Robot Project
+
+         30%        Design lab, AutoCAD, C++, Ethics and some Sparkfun Assignments
+
+         10 %        Final Individual Portfolio
+
+         20%        Exams and Projects: C++, AutoCAD
+
+         5%          Attendance and Participation (including Tophat and TRACE confirmation)
+Communication
+
+Canvas:
+
+I will be teaching this course using Canvas. I recommend bookmarking canvas.northeastern.edu/login for easy access. Prior to taking this course, review the basic computer specifications for Canvas (Links to an external site.). You can access Canvas on the go using the Canvas Student app (Links to an external site.). Not all features work on the mobile app, I recommend completing essential course work using your computer and a web browser.
+
+If you need help using Canvas, online chat, and phone support are available 24/7 by clicking on the help menu in the left-hand navigation. For additional help, around-the-clock Northeastern tech support is still available students. For technology questions or assistance, contact the IT Service Desk 24 hours a day, 7 days a week, learn about ways to contact ITS Service Desk here (Links to an external site.).
+
+Here is how I plan to use Canvas communication tools:
+
+    Cornerstone of Engineering Community:  We will leverage the Canvas chat platform to facilitate communication among peers. This platform will serve as a space for you to connect with classmates, pose questions, share responses, and foster connections beyond the confines of the classroom.
+    Email: Feel free to email me with questions of a personal nature. You can expect a response within 24 hours on weekdays, 48 hours on weekends. Please check your Northeastern email daily or forward it to an email address that you do check.
+    "Student Hours": I am available for consultations via phone, in-person, or Zoom. The schedule for student hours will be shared at a later date. Once available, you can sign up for a 30-minute appointment using the provided scheduling link. Simply join the meeting or connect via the Zoom link at your scheduled time.
+
+Assignments
+
+Lateness: There will be weekly individual homework assignments requiring use of the computer and analytical write-ups. They are due at the beginning of class on the date due, so plan to print/upload your work before you arrive to class, not at the beginning of or during class. Late assignments are accepted for submission with some penalty. Assignments will not be accepted after the solution has been provided, presented, or discussed. If a late assignment is accepted, 10 points will be deducted for each business day after the due date. For example: if an assignment is due on 09/14, 10 am, 10 points will be deducted for any material submitted after 09/14, 10:01 am and before 09/15, 10:00 am, and so on. To assist you in managing your workload effectively during the challenging times of the semester, each student is granted three homework assignment extensions.  
+
+Please note that you are limited to three extension requests throughout the semester, and extensions do not apply to group assignments or exams. Please inform us of your intension to take an extension on a particular assignment by leaving a comment in the assignment submission section. You must submit the particular assignment by the last day of classes.
+
+Presentation: All assignments must be presented in a neat, organized, and professional manner and word processed unless otherwise indicated. All the assignments will be submitted through Blackboard website in a pdf, cpp, or jpeg form unless otherwise stated. Assignments presented otherwise will be returned with a point penalty. For example, each packet of work submitted should contain the required correspondence, digital copy of source code of all programs, sometimes output, flowchart and/or pseudo code. You will also be required to upload the program in the Blackboard/Assignments area. Please note that assignments should not be submitted by e-mail. Any assignment submitted via email will be ignored.
+Recording of Class
+
+This course, or parts of this course, maybe recorded for educational purposes. These recordings will be made available only to students enrolled in the course, instructor of record, and any teaching assistants assigned to the course.  
+
+Only students who have arranged an accommodation with the Disability Resource Center may use mechanical or electronic transcribing, recording, or communication devices in the classroom. Students with disabilities who believe they may need such an accommodation may contact the  Office of Student Access and Support Services (SASS).
+
+Links to an external site.
+Diversity and Inclusion
+
+I consider this classroom to be a place where you will be treated with respect, and I welcome individuals of all ages, backgrounds, beliefs, ethnicities, gender identities, and abilities.  All members of this class are expected to contribute to a welcoming and inclusive environment for other members of the class.
+
+I will gladly honor your request to address you by an alternative name or gender pronoun.  Please advise me of this preference early in the semester so that I may make appropriate changes to my records.
+
+Neurodiversity Inclusivity Statement:
+
+I am committed to ensuring that students with a variety of neurological differences are well-supported in this course. I believe that the diverse neurological perspectives students bring to the class are valuable assets and enhance our collective learning experience.
+
+The COE Neurodiversity Initiative is dedicated to advancing inclusivity by embracing the concept of neurodiversity, which views differences in brain function and behavioral traits as natural variations within human diversity. Our mission is to advance a strength-based approach, increase acceptance of neurodiversity, and enhance understanding within educational, work, and social settings. To support this mission, we provide personalized 1:1 and group weekly meetings with coaches, co-op coaching, and referral pathways, all aimed at empowering students to navigate campus life and reach their full potential. No diagnosis or fees are required to access our services. For additional information, please contact us at neurodiversityinitiative@northeastern.edu.
+Special Accommodations
+
+Students with a verified disability are eligible to receive accommodations once they have submitted medical documentation that establishes the nature of a disability and/or health condition and describes its impact on the student in the educational environment. If you do not have access to documentation or it is pending, accommodations may be granted on a case-by-case basis and provided provisionally while documentation is pending. Please contact the Office of Student Access and Support Services (SASS).
+
+Links to an external site.
+Ethical Behavior
+
+A commitment to the principles of academic integrity is essential to the mission of Northeastern University. The promotion of independent and original scholarship ensures that students derive the most from their educational experience and their pursuit of knowledge. Academic dishonesty violates the most fundamental values of an intellectual community and undermines the achievements of the entire University.
+
+As members of the academic community, students must become familiar with their rights and responsibilities. In each course, they are responsible for knowing the requirements and restrictions regarding research and writing, examinations of whatever kind, collaborative work, the use of study aids, the appropriateness of assistance, and other issues. Students are responsible for learning the conventions of documentation and acknowledgment of sources in their fields. Northeastern University expects students to complete all examinations, tests, papers, creative projects, and assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in this Code or by the direction of instructors.
+
+Go to http://www.northeastern.edu/osccr/academic-integrity-policy/
+
+Links to an external site. to access the full academic integrity policy.
+
+The unauthorized copying of computer code or any document contents and presenting it as your own work is strictly prohibited. Individual assignments require each student to independently prepare and submit their own programs, reports, drawings, and other materials. If similarities are detected among multiple students' work, penalties may be applied to all involved parties. In cases of uncertainty about collaboration and potential honor code violations, consult the instructor for guidance.
+
+As part of the learning process, you may opt to use AI chat, such as ChatGPT or any other open AI platform, treating it as a tutor rather than a solution generator. It's essential to critically evaluate its insights. If you choose to integrate AI chat input into assignments, cite it as you would any other source. Your interaction with AI chat is optional, but maintaining academic integrity is paramount.
+
+Violations of ethical behavior will be reported to OSCCR, and penalties may include zero credit on the work, placement on probation, and the submission of information on the judgment in the student's permanent record.
+Title ix
+
+Title IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance.
+
+Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the entire community, including male, female, transgender students, faculty and staff.
+
+In case of an emergency, please call 911.
+
+Please visit www.northeastern.edu/titleix
+
+Links to an external site.  for a complete list of reporting options and resources both on- and off-campusI

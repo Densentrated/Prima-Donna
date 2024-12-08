@@ -1,0 +1,537 @@
+CS2500.SPERTUS.202510Syllabus
+
+202510_1 Fall 2024 Semester Full Term
+
+    Home
+    Syllabus
+    Absence Form
+    Announcements
+    Assignments
+    Class Recordings
+    Glossary
+    Grades
+    62
+    Microsoft Teams meetings
+    Namecoach
+    New Analytics
+    Office Hours
+    Pages
+    People
+    Piazza
+    Poll Everywhere
+    Progress Reports (EAB Navigate)
+
+Course Syllabus
+Jump to Today
+ 
+CS 2500
+Fundamentals of Computer Science
+Fall 2024
+
+Course Description
+
+This is an introduction to the fundamental ideas of computing and the principles of programming. We will discuss a systematic approach to word problems, including analytic reading, synthesis, goal setting, planning, plan execution, and testing. The course presents several models of computing, starting from nothing more than expression evaluation in the spirit of high school algebra. No prior programming experience is assumed, so the course is suitable for first year students, majors and non-majors alike who wish to explore the intellectual ideas in the discipline.
+
+Professor: Ellen Spertus (e.spertus@northeastern.edu)
+
+There is no required textbook for this course. If you learn best from textbooks, we recommend Atomic Kotlin
+Links to an external site. by Bruce Eckel and Svetlana Isakova. The free sample
+
+Links to an external site. includes the first 2 sections, and the entire online textbook can be checked out for free with an Oakland Public Library cardLinks to an external site..
+
+You may also learn interactively at https://www.learncs.online/Links to an external site. (though it is structured differently than this course).
+
+Recordings, lecture notes, and supplementary material are provided in each week's Canvas module.
+
+Note that this syllabus is subject to change. All changes will be announced to the class.
+
+ 
+Learning Goals
+
+By the end of this course, students should be able to:
+
+    design appropriate data representation(s) for relevant information
+    indicate an appropriately general input(s)/output relationship given data representation(s)
+    develop a sufficient set of automated tests to verify a coded solution
+    produce a set of well-designed functions to solve the problem, making appropriate use of abstraction
+
+ 
+Course Structure
+
+There will be three in-person lectures and one recitation (also known as lab) per week. During the lectures we will go over new content using lecture, live coding, discussion, and individual exercises.
+
+The recitation (CS 2501) will include individual exercises and an opportunity to begin homework with guidance and feedback from instructional staff. Recitations will be led by lab leaders:
+
+    Mengyuan Liu (liu.mengyu@northeastern.edu)
+        Friday 10:35-12:15, ED 101
+        Friday 12:25-2:05, ED 101
+    Zhihan (Hannah) Feng (feng.zhiha@northeastern.edu)
+        Thursday 3:00-4:40, MH 133
+        Thursday 4:50-6:30, GSB 117
+    Diya Wadhwani (wadhwani.d@northeastern.edu)
+        Friday 12:25-2:05, NSB 212
+    Zhaoshan (Joshua) Duan (duan.zha@northeastern.edu)
+        Thursday 3:00-4:30, CPM 100
+        Friday 10:35-12:15, NSB 212
+
+It does not matter whether Prof. Bhalerao or Prof. Spertus is listed as the official instruction for your lab section.
+
+There will also be weekly homework assignments. The purpose of homework is to give you hands-on experience with the course material you learned in lecture, and to prepare you for the quizzes and projects.
+
+There will also be four quizzes over the semester, tentatively scheduled during lecture on:
+
+    Thursday, September 19
+    Thursday, October 10
+    Wednesday, October 30
+    Wednesday, November 20
+
+There will also be a final exam on Monday, December 9, 10:30 AM - 12:30 PM.
+
+Students are recommended to attend office hours to discuss anything related to the course or to computer science. Online office hours will be on the Khoury Office Hours AppLinks to an external site.. (See also: Office Hours Help GuideLinks to an external site.)
+
+It is extremely important for you to be actively engaged in this course. Like most programming courses, we are asking you to change the way you think so that you can express your thoughts to a computer. This is not an easy task.
+
+How to succeed in this course:
+
+    Give your full attention in class, participate thoughtfully in activities, ask questions, and take notes. You can print slide handouts before class and write on them or use these (or other) programs to annotate PDFs:
+        iPad: Notability 
+
+Links to an external site.
+Windows: Microsoft Edge
+All platforms: DrawBoardPDF
+Links to an external site., Adobe Acrobat (free to NU students
+
+        Links to an external site.)
+    Review your notes and the slides after class (perhaps in the evening) by yourself or with classmates. Try to find answers to anything that is unclear, such as by attending office hours.
+    Start the homework projects early. Come to recitations having read the instructions for that week's homework, and bring questions. We expect students to run into issues and ask for help.
+    Use the regular course materials to study for the quizzes. 
+
+Do not expect to get all the information you need merely by attending class. In college, students are expected to spend 2 hours per credit hour studying outside of class. For this course, this means that you should spend 10 hours per week outside of class. This includes not just completing assignments but self-initiated studying. We provide help, but you need to take ownership of your learning. Later material builds on earlier materials, and you should seek help as soon as possible when you do not understand something.
+
+A successful past student who had no prior experience offered this advice to future students:
+
+I personally found it useful to attend lectures and go to labs, as the practice and additional information was super useful for understanding the homework. I also found focusing on understanding the assignments much more useful than focusing on the results. A byproduct of this approach was that I rarely needed to study for quizzes.
+Communication
+
+Recordings, lecture notes, and supplementary material will be made available on Canvas in the Modules section. These are meant to supplement, not replace, in-person attendance.
+
+Students are responsible for reading Canvas Announcements, which will be used for important information, such as changes to the syllabus and assignments. Students can configure
+
+Links to an external site. how they receive announcements.
+
+Students are encouraged to communicate with course staff (and, when appropriate, their classmates) with questions and suggestions. To make sure messages are seen by the right people and do not get lost, non-urgent contact should be done through Piazza
+Links to an external site.. Students can post with or without their names Links to an external site., and they can set their posts to be visible to just Ellen, all instructors, or everyone. If students have questions that are likely to be shared by other students, they should not restrict visibility, so other students can benefit from the answers. Students are also encouraged to share resources they find helpful. It is wise to check Piazza for relevant messages when working on an assignment. Sign up for our class Piazza at https://piazza.com/northeastern/fall2024/cs2500f2024oakland
+
+Links to an external site..
+
+Students should use email for urgent time-sensitive matters, such as to request permission to attend class online due to illness. Emails should include relevant information, such as which section a student is in. They should not be generated by ChatGPT or other AI programs.
+
+Students are expected to respond to emails sent by the instructor. They are also expected to read and act on feedback on assignments, including requests to schedule a meeting with the instructor.
+
+ 
+Respect for Diversity
+
+Classrooms full of computing students from diverse backgrounds and perspectives are crucial for us to make progress in our field.
+
+It is my intent that diverse groups of students will be successful in this course, that each student's learning needs are addressed both in and out of class, and that the diversity that each student brings to this class is viewed as a resource, strength, and benefit. I expect you to feel challenged and sometimes outside of your comfort zone in this course, but it is my intent to present materials and activities that are inclusive and respectful of all persons, no matter their gender, sexual orientation, disability, age, socioeconomic status, ethnicity, race, culture, perspective, and other background characteristics. We should all strive for these principles both inside and outside of the classroom.
+
+If a class meeting conflicts with your religious observances, please let me know in the first two weeks of the class so that we can make other arrangements. Northeastern University respects the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty.
+
+Class rosters are provided to each instructor with each student's legal name. I will gladly honor your request to address you by an alternate name and/or pronouns. Please correct me (publicly or privately) if I accidentally mispronounce your name or misgender you.
+
+While I hope students will ask and answer questions in class, I understand that not everyone always feels comfortable doing so. If I call on you and you do not feel comfortable participating, say "pass", and I will immediately move on to another student. I also provide opportunities for students to participate through polls, think-pair-share
+
+Links to an external site., and anonymous question submission. 
+Grading
+
+Assessment will be based on homework, participation, quizzes, and projects. You may ask for feedback on anything else, but it will not figure into your final grade.
+Grade Breakdown Homework 	45%
+Quizzes + Final exam 	40%
+Labs 	10%
+Lecture In-class Exercises 	5%
+
+Lab assignments will be auto-graded. For the first two lab sessions of the semester, students must attend lab in person to receive credit. After that, students have the option of submitting the lab assignment remotely, though there may be opportunities to earn back a small number of homework points by attending lab sessions in person.
+
+Since everyone makes mistakes and has a bad day, the lowest homework and two lab scores will be dropped.
+
+Final grades will be assigned based on the overall percentage calculated using the weightings listed above. Numeric grades will be rounded to the nearest percentage (so, e.g., 89.5 will be rounded to 90, and 89.49 will be rounded to 89). Percentages will be converted into letter grades as shown:
+A 	93-
+A- 	90-92
+B+ 	87-89
+B 	83-86
+B- 	80-82
+C+ 	77-79
+C 	73-76
+C- 	70-72
+D+ 	67-69
+D 	63-66
+D- 	60-62
+F 	0-59
+
+It is neither appropriate nor effective to ask for an unearned grade. Doing so shows a lack of academic integrity and will not be in the student's interest.
+
+Homework and project submissions will be made through Gradescope. When pair programming, a single assignment should be submitted with both students' names specified when uploading
+
+Links to an external site..
+
+To progress, students are required to meet the grade point average (GPA) requirements as determined by Khoury College of Computer Sciences (see Khoury's website
+
+Links to an external site. for more information).
+
+ 
+
+Feedback
+
+We consider fair, prompt, and clear grading to be important, and students are encouraged to contact the appropriate instructor if they do not understand feedback or point removal.
+
+Any requests for regrading must be submitted through Gradescope no more than 7 days after the feedback was released. Students should make regrade requests if they do not understand why they lost points or think they may have been misgraded according to the instructor's rubric. They should not make regrade requests to argue that a mistake or omission of theirs should not have been penalized.
+
+Students are expected to promptly read feedback on graded assignments. If the feedback includes a request to meet with the instructor, students may be penalized (or referred to OSCCR if there was an academic integrity issue) for not doing so.
+
+ 
+Late Policy
+
+Falling behind on work is never a good idea: the course presents new material every lecture, which builds on previous material, which makes catching up challenging. However, we know that your time is not always easily scheduled, and some weeks, "stuff happens." We will therefore allow students to turn in homework up to 24 hours after the deadline, with a penalty of 10% of the assignment's score.
+
+Each student gets two penalty-free late days. Late days are not fractional (so submitting the assignment 3 hours late costs one whole late day). These late days will be applied automatically, so you do not need to contact the instructor. In extenuating circumstances, usually involving Disability Access Services, a student can request more late days after using the two free late days. Additionally, there is a one-hour grace period for homework assignments. That means there is no penalty for being up to one hour late, but you will be docked a day if you are more than one hour late. The one-hour grace period does not apply to the late deadline. Be aware that Gradescope shows deadlines using Eastern Time. Canvas shows deadlines correctly in Pacific Time.
+
+Because we do not provide extensions for computer problems, most illnesses, or difficulty understanding instructions, students are encouraged to start assignments early and to submit when they reach milestones, not just when everything works.
+
+ 
+Attendance
+
+Unless identified as an online class, all classes are on ground, and students should anticipate attending in person. There will be small in-class exercises that are graded on completion. Students will need to arrive on time stay until the end of class to get full credit. If their course schedule makes this impossible and they are unable to change their schedule, they should let the instructor know of the conflict.
+
+According to the official Northeastern University Attendance Requirements
+
+Links to an external site., students have the right to a limited number of excused absences, including absences due to specific university-sponsored activities, religious holidays, military deployment, and jury duty.
+
+The in-class exercises during lecture will be graded based on whether questions were attempted, not on correctness. Because students may need a small number of absences, students can submit the lecture absence form
+
+Links to an external site. to miss up to six lectures. If the lecture absence form is submitted before the lecture or less than 48 hours after the lecture, the student will not lose the lecture participation points for the day. Students who need to submit the form more than six times should reach out to Ellen. In-class exercises can only be done from the lecture classroom (or attending synchronously online with explicit permission). Completing an in-class activity while not present is a serious academic integrity violation, which will result in a zero for the participation grade for the semester and an OSCCR report.
+
+ 
+
+Recordings
+
+Most (if not all) lectures will be recorded and posted to Canvas. These will be useful for students to be able to revisit material after a class, or for students who have to miss class due to illness, quarantine, or emergencies. They are not meant as substitutes for attendance.
+
+ 
+Asking for help
+
+One of the goals for this course is to show you that CS can be fun. It can be challenging, it can be difficult, and it can be extremely satisfying when something works correctly. It should not be frustrating.
+
+Frustration occurs when you are working on something and not making progress, especially if you’re not sure about what you are doing. Frustration does not facilitate learning. If you find yourself getting frustrated, stop. Go do something else, eat some dinner, take a walk, but most importantly, ask a question. Ask the professor or a TA, ask a question in lab or class, or talk with a classmate. 
+
+We do not expect you to complete the projects completely on your own.
+
+We suggest the 15-minute rule: if you have been stuck on a problem for more than 15 minutes and have made no progress, despite your best efforts, please stop and get help. Post to Piazza, drop by Office Hours, or consult a peer or AI. If you don't get an answer immediately, do something else for a while. Please do not waste your time on one problem or bug in your code. Asking a question can get you past the bug quickly and teach you how to fix it on your own next time.
+
+ 
+Academic Accommodations
+
+If you have a documented disability, please register with Disability Access Services
+
+Links to an external site. so you get the accommodations to which you are entitled. Please do this even if you are unsure whether you will need accommodations, since there may be a delay if you decide you need them later. Please do not wait until it has seriously impacted your work.
+
+The Oakland Student Access and Support Services Office (SASS), located in the Cowell Building, provides advising, advocacy, and all necessary accommodations to help students with various abilities thrive at Northeastern. SASS connects students seeking accommodations with the university’s Disability Access Services. The DAS works with students and faculty to provide students who qualify under the Americans With Disabilities Act with accommodations that allow them to participate fully in the activities at the university. Ordinarily, students receiving such accommodations will deliver teacher notification letters at the beginning of the semester. 
+
+Students will not be allowed to wear headphones during quizzes or the final exam. If you have a disability-related reason for wearing headphones, please work with the instructor and DAS to find the best solution.
+
+Mental health issues are real and can prevent you from doing your best work. Your Khoury advisor is your primary contact for accessing University resources. You can also directly access University Health and Counseling Services.
+
+ 
+Collaboration and Academic Honesty
+
+Computer science, both academically and professionally, is a collaborative discipline. In any collaboration, however, all parties are expected to make their own contributions and to generously credit the contributions of others. In our class, therefore, collaboration on homework and programming assignments is encouraged, but you as an individual are responsible for understanding all the material in the assignment and doing your own work. Always strive to do your best, give generous credit to others, start early, and seek help early from both your professors and classmates.
+
+The following rules are intended to help you get the most out of your education and to clarify the line between honest and dishonest work. The professor reserves the right to ask you to verbally explain the reasoning behind any answer or code that you turn in and to modify your project grade based on your answers. It is vitally important that you turn in work that is your own and follow the guidelines for academic honesty. The minimum penalty for an academic integrity violation is a zero on the assignment and a report to the Office of Student Conduct and Conflict Resolution (OSCCR)
+
+Links to an external site.. Penalties are increased it there are aggravating factors, such as stealing another student's work or lying about cheating.
+
+If you have had a substantive discussion of any homework or programming solution with a classmate (or anyone else), then be sure to cite them in your report. Here are some example citations:
+
+    "I had no idea how to approach Question 3 until classmate Husky Huskington explained how I could break it down into separate functions."
+    "Joseph Aoun and I bounced ideas off each other for Question 4, although we both did our own coding."
+    "I didn't remember how to convert a string to an int, so I asked Google Bard. It also showed me how to handle an exception if the string couldn't be converted."
+
+If you are unsure of what constitutes "substantive", then ask us or err on the side of caution. You will not be penalized for working together. You must not copy code or answers by hand, electronically, or in any other manner. Another way to think about it is that you should be talking in English (or another natural language) with one another, not Kotlin. 
+
+The following rules apply to anything you hand in for a grade.
+
+    You may not copy anyone else's code or answers under any circumstances. This includes online sources.
+    You may not permit any other student to see any part of your program.
+    You may not permit yourself to see any part of another student's program.
+    You may not publicly post your homework project code or answers in a chat or discussion where another student can see or copy it.
+    You may not describe a solution (or receive a description) in such detail that your work is virtually identical to another student's.
+    You may consult online resources as part of your course work, but you may not copy code or answers from online sources, books, etc. If you get an idea of how to solve a problem from an online source, another person, or AI, include a short citation. You are not required to cite course materials (including Piazza) or help from a TA (although we are always happy to hear when a TA was helpful).
+    AI tools such as ChatGPT should be treated like another person. Asking it to generate code or text for you is equivalent to asking another person to generate code or text for you. The same policies that apply to collaborating with people will also apply to collaborating with AI. You may consult it about Kotlin syntax, our provided code, or general approaches. You may not ask it to generate assignment solutions. Cite it if it is helpful.
+
+The university's academic integrity policy
+
+Links to an external site. discusses actions regarded as violations and consequences for students, which are severe.
+
+If you have a question about what is considered a violation of this policy, please ask an instructor.
+
+If you feel that cheating is your only choice, please ask for help.
+
+ 
+Other Resources
+
+Technology Assistance
+
+Canvas is Northeastern University’s Learning Management System (LMS). For technology issues, please call the Northeastern HELP desk (617-373-4357) or email them at help@northeastern.edu. You can also access help in person at the Prieto Tech Bar
+Links to an external site.. The tech bar is located next to the Tea Shop, and offers drop in hours M-F from 8-5. For Canvas Help, visit https://canvas.northeastern.edu/support-and-resources/
+
+Links to an external site.. 
+
+ 
+
+Peer Tutoring
+
+The Peer Tutoring Program offers a wide range of tutoring services to meet the academic needs of the undergraduate students by providing FREE peer tutoring in many Northeastern courses. The goal is to create synergy among students, faculty, and tutors where the student's personal and academic growth and development is a priority. NU has partnered with Knack and you can find more information here: https://northeasternpeertutoring.sites.northeastern.edu/
+Links to an external site.. For directions on joining Knack and getting started, visit https://northeasternpeertutoring.sites.northeastern.edu/find-a-peer-tutor/
+
+Links to an external site.. 
+
+For questions about Northeastern Peer Tutoring on Knack you can reach out at peertutoring@northeastern.edu. 
+
+ 
+
+International Tutoring Center
+
+The International Tutoring Center (ITC) provides current Northeastern University international and non-native English speaking students with free, comprehensive English language and academic support. The ITC includes student centered one-on-one tutoring sessions, Reading, Language and Culture, and Writing Workshops. For more information on available workshops and tutoring opportunities please visit https://cps.northeastern.edu/academic-resources/global-student-success/international-tutoring
+
+Links to an external site..
+
+International students can also access in person support on the Oakland campus. For more information please visit https://oakland.northeastern.edu/student-resources/international-student-support/
+
+Links to an external site. or email OaklandOGS@northeastern.edu. 
+
+ 
+
+F.W. Olin and Snell Library
+
+Students can access research resources at the F.W. Olin library on the Oakland campus (https://library.northeastern.edu/global_campus/global-campus-portals/oakland/
+Links to an external site.) and online through the Snell Library in Boston. (https://library.northeastern.edu/ Links to an external site.) The Snell Library collaborates with both the First-Year Writing and Advanced Writing in the Disciplines programs to support students’ information literacy. Online research tutorials can be found here: https://subjectguides.lib.neu.edu/researchtutorials/getstarted
+
+Links to an external site.
+
+ 
+
+WeCare
+
+WeCare is a program operated through the Office for Student Affairs. The mission is to assist students experiencing unexpected challenges to maintaining their academic progress. WeCare works with students to coordinate among university offices and to offer appropriate on and off campus referrals to support successfully resolving the issue. WeCare also provides information to faculty and staff to identify Northeastern resources and policies to help students succeed.
+
+For more information see https://studentlife.northeastern.edu/we-care/
+
+Links to an external site..  Call 617.373.4384 or email wecare@northeastern.edu.
+
+ 
+
+Mental Health Resources
+
+In addition to existing mental health resources available on campus through CAPS, the Counseling and Psychological Services Office, (https://oakland.northeastern.edu/student-resources/health-and-wellness/counseling-and-psychological-services/
+Links to an external site.), Northeastern offers Find@Northeastern, which is a “24/7 mental health support” and can be reached at 1-877-233-9477.  For more information see https://www.northeastern.edu/uhcs/find-at-northeastern/
+
+Links to an external site.. The service also provides free counseling sessions. 
+
+ 
+
+Title IX Protections and Resources
+
+Title IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal funding.  
+
+Any NU community member who has experienced such discrimination, sexual assault, relationship violence, stalking, coercion, and/or sexual harassment, is encouraged to seek help. Confidential support and guidance can be found through University Health and Counseling Services
+Links to an external site. staff and the Center for Spiritual Dialogue and Service Links to an external site. clergy members. For reporting options and clarity on confidential and non-confidential options, please see the Office for University Equity and Compliance
+
+Links to an external site..
+
+Faculty members are considered “responsible employees” at Northeastern University, meaning they are required to report all allegations of sex or gender-based discrimination to the Title IX Coordinator. For additional information and assistance please see the Title IX page
+
+Links to an external site..
+
+ 
+
+Global Learner Support
+
+Northeastern University's Global Learner Support (GLS) offers "language, cultural, and academic support while promoting the development of intercultural competence and global understanding." They offer tutoring, workshops, and much more. Visit https://gls.northeastern.edu/ to learn more.
+
+ 
+Recording Policy
+
+The lectures from this course may be recorded for educational purposes. These recordings will be made available via Canvas to students enrolled in the course, the instructor of record, and any teaching assistants assigned to the course.
+
+Only students who have arranged an accommodation with Disability Access Services may use mechanical or electronic transcribing, recording, or communication devices in the classroom. Students who want to request such an accommodation may contact Disabilities Access Services.
+
+Under California law, students are not allowed to record classes whether in visual or audio forms without the consent of the instructor and all class participants, except as necessary to provide reasonable auxiliary aids and academic adjustments to disabled students.
+Course Summary:
+Date 	Details 	Due
+Thu Sep 5, 2024 	Assignment PollEV 9/4 Attendance 	due by 2:59am
+Assignment PollEV 9/4 Participation 	due by 2:59am
+Fri Sep 6, 2024 	Assignment PollEV 9/5 AM 	due by 2:59am
+Sat Sep 7, 2024 	Assignment Install and Configure IntelliJ 	due by 2:59am
+Assignment Lab 1 	due by 2:59am
+Mon Sep 9, 2024 	Quiz Syllabus Quiz 	due by 2:59am
+Assignment Complete Student Information Survey 	due by 2:59am
+Assignment Configure Canvas 	due by 2:59am
+Assignment Create accounts 	due by 2:59am
+Tue Sep 10, 2024 	Assignment Fundies 9/9 	due by 2:59am
+Quiz Homework 1 Self-Test 	due by 11pm
+Assignment HW 1: Hello Kotlin 	due by 11pm
+Thu Sep 12, 2024 	Assignment PollEV 9/11 	due by 2:59am
+Fri Sep 13, 2024 	Assignment PollEV 9/12 	due by 2:59am
+Sat Sep 14, 2024 	Assignment Lab 2 	due by 2:59am
+Wed Sep 18, 2024 	Assignment PollEV 9/16 	due by 2:59am
+Assignment HW 2: Ad Targeting Pre-Task 	due by 10pm
+Assignment HW 2: Ad Targeting 	due by 11pm
+Thu Sep 19, 2024 	Assignment Practice Quiz 1 	due by 2:59am
+Assignment Quiz 1A 	due by 2:40pm
+Sat Sep 21, 2024 	Assignment PollEV 9/18 AM 	due by 2:59am
+Assignment Lab 3 	due by 2:59am
+Tue Sep 24, 2024 	Assignment HW 3: Minecraft Mobs 	due by 11pm
+Thu Sep 26, 2024 	Assignment PollEV 9/23 	due by 2:59am
+Assignment PollEV 9/25 	due by 2:59am
+Fri Sep 27, 2024 	Assignment PollEV 9/26 	due by 2:59am
+Sat Sep 28, 2024 	Assignment Lab 4 	due by 2:59am
+Tue Oct 1, 2024 	Assignment HW 4: Wordle 	due by 11pm
+Fri Oct 4, 2024 	Assignment PollEV 10/3 AM 	due by 2:59am
+Sat Oct 5, 2024 	Assignment Lab 5 	due by 2:59am
+Tue Oct 8, 2024 	Assignment HW 5: Web Crawler 	due by 11pm
+Thu Oct 10, 2024 	Assignment Practice Quiz 2 	due by 2:59am
+Assignment Quiz 2A 	due by 2:40pm
+Mon Oct 14, 2024 	Assignment Lab 6 	due by 2:59am
+Thu Oct 17, 2024 	Assignment PollEV 10/16 AM 	due by 2:59am
+Sat Oct 19, 2024 	Assignment Lab 7 	due by 2:59am
+Tue Oct 22, 2024 	Assignment HW 6: Minecraft 2D 	due by 11pm
+Wed Oct 23, 2024 	Assignment PollEV 10/21 	due by 2:59pm
+Thu Oct 24, 2024 	Assignment PollEV 10/23 	due by 1pm
+Sat Oct 26, 2024 	Assignment Lab 8 	due by 2:59am
+Tue Oct 29, 2024 	Assignment HW 7: Mondrian 	due by 11pm
+Wed Oct 30, 2024 	Assignment PollEV 10/28 	due by 2:59am
+Assignment Practice Quiz 3 	due by 1pm
+Assignment Quiz 3A 	due by 2:40pm
+Sat Nov 2, 2024 	Assignment Lab 9 	due by 2:59am
+Tue Nov 5, 2024 	Assignment HW 8: Functional Programming 	due by 11pm
+Sat Nov 9, 2024 	Assignment Lab 10 	due by 2:59am
+Tue Nov 12, 2024 	Assignment HW 9: Minecraft 2D Spawners 	due by 11pm
+Sat Nov 16, 2024 	Assignment Lab 11 	due by 2:59am
+Mon Nov 18, 2024 	Assignment Practice Quiz 4 	due by 2:59am
+Tue Nov 19, 2024 	Assignment HW 10: Wordle Revisited 	due by 11pm
+Wed Nov 20, 2024 	Assignment Quiz 4A 	due by 2:40pm
+Sat Nov 23, 2024 	Assignment Lab 12 	due by 2:59am
+Mon Dec 2, 2024 	Assignment December 2 in-class exercise (AM only) 	due by 2:02pm
+Tue Dec 3, 2024 	Assignment HW 11: Reddit Reader 	due by 11pm
+Thu Dec 5, 2024 	Assignment Late passes used 	due by 2:59am
+	Assignment Lectures Missed 	 
+Assignment Number of labs attended 	 
+Assignment PollEV 10/17 	 
+Assignment PollEV 10/2 	 
+Assignment PollEV 10/31 	 
+Assignment PollEV 10/7 	 
+Assignment PollEV 11/14 	 
+Assignment PollEV 11/18 	 
+Assignment PollEV 11/25 	 
+Assignment PollEV 11/4 	 
+Assignment PollEV 11/6 	 
+Assignment PollEV 11/7 	 
+Assignment PollEV 12/2 AM 	 
+Assignment PollEV 12/4 	 
+Assignment PollEV 9/13 	 
+Assignment PollEV 9/30 	 
+Assignment Practice Quiz 1 (review) 	 
+Assignment Practice Quiz 2 (review) 	 
+Assignment Practice Quiz 3 (review) 	 
+Assignment Practice Quiz 4 (review) 	 
+Assignment Quiz 1A (review) 	 
+Assignment Quiz 1B (review) 	 
+Assignment Quiz 2A (review) 	 
+Assignment Quiz 2B (review) 	 
+Assignment Quiz 3A (review) 	 
+Assignment Quiz 3B (review) 	 
+Assignment Quiz 3C (review) 	 
+Assignment Quiz 4A (review) 	 
+Assignment Quiz 4B (review) 	 
+Assignment Quiz 4C 	 
+Assignment Quiz 4C (review) 	 
+December 2024
+Calendar
+Sunday 	Monday 	Tuesday 	Wednesday 	Thursday 	Friday 	Saturday
+24 November 2024 24 Previous month
+	
+25 November 2024 25 Previous month
+	
+26 November 2024 26 Previous month
+	
+27 November 2024 27 Previous month
+	
+28 November 2024 28 Previous month
+	
+29 November 2024 29 Previous month
+	
+30 November 2024 30 Previous month
+1 December 2024 1
+	
+2 December 2024 2 Click to view event details
+	
+3 December 2024 3 Click to view event details
+	
+4 December 2024 4
+	
+5 December 2024 5 Today Click to view event details
+	
+6 December 2024 6
+	
+7 December 2024 7
+8 December 2024 8
+	
+9 December 2024 9
+	
+10 December 2024 10
+	
+11 December 2024 11
+	
+12 December 2024 12
+	
+13 December 2024 13
+	
+14 December 2024 14
+15 December 2024 15
+	
+16 December 2024 16
+	
+17 December 2024 17
+	
+18 December 2024 18
+	
+19 December 2024 19
+	
+20 December 2024 20
+	
+21 December 2024 21
+22 December 2024 22
+	
+23 December 2024 23
+	
+24 December 2024 24
+	
+25 December 2024 25
+	
+26 December 2024 26
+	
+27 December 2024 27
+	
+28 December 2024 28
+29 December 2024 29
+	
+30 December 2024 30
+	
+31 December 2024 31
+	
+1 January 2025 1 Next month
+	
+2 January 2025 2 Next month
+	
+3 January 2025 3 Next month
+	
+4 January 2025 4 Next month
